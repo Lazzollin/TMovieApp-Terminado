@@ -17,6 +17,7 @@
       "distribution": "internal"
     },
     "production": {
+      "node": "20.9.0",
       "android": {
         "image": "latest"
       },
