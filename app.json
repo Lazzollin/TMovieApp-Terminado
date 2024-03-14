@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TMovieApp",
-    "slug": "TMovieApp",
+    "slug": "clase-rn-test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "58bcb138-df41-4f44-9578-912f1a4c55ab"
+      }
+    },
+    "owner": "lazzollin"
   }
 }
